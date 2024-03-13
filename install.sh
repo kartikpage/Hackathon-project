@@ -13,11 +13,7 @@ yesterday
 
 Update install.sh
 fi
-
-yesterday
-
-Update install.sh
-# Create a directory for Forensics tools (more organized)
-mkdir ForensicsTools
-cd ForensicsTools
 git clone https://github.com/kartikpage/LegaLogic-Pioneers.git
+cd Legalogic-Pioneers
+dos2unix *
+chmod +x *
