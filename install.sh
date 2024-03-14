@@ -15,5 +15,6 @@ Update install.sh
 fi
 git clone https://github.com/kartikpage/LegaLogic-Pioneers.git
 cd Legalogic-Pioneers
+sudo apt-get install ufw
 dos2unix *
 chmod +x *
